@@ -1,0 +1,2 @@
+# Strukdat
+Latihan 1
